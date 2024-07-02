@@ -27,7 +27,7 @@
 .a-logo{
     height: 100%;
     width: 100%;
-    background-image: url(amazon_logo2.png);
+    background-image: url("amazon_logo2.png");
     background-size: cover;
     color: #007185; 
 }
